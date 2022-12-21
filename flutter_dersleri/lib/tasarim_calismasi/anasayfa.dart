@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tasarim_calismasi/bolum.dart';
-import 'package:tasarim_calismasi/my_chip.dart';
-import 'package:tasarim_calismasi/renkler.dart';
+import 'bolum.dart';
+import 'my_chip.dart';
+import 'renkler.dart';
 
 class Anasayfa extends StatefulWidget {
   const Anasayfa({Key? key}) : super(key: key);

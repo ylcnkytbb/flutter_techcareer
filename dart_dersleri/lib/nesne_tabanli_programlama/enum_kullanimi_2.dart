@@ -13,5 +13,7 @@ void main() {
         break;
       case KutuRenk.yesil :
         print('Adet: ${adet * 30}');
+
+
     }
   }

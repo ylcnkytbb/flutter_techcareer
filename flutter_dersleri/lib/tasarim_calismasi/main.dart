@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tasarim_calismasi/anasayfa.dart';
+import 'anasayfa.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tasarim_calismasi/renkler.dart';
+import 'renkler.dart';
 
 class MyChip extends StatelessWidget {
   String icerik;
