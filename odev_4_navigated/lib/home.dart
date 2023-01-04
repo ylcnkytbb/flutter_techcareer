@@ -118,7 +118,7 @@ class RouteY extends StatelessWidget {
       body: Center(
           child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
             ElevatedButton(child: Text('Geri Dön'), onPressed: () {
-            Navigator.pop(context);
+           Navigator.push(context, MaterialPageRoute(builder:(context)=> Home()));
             }),
           ])),
     );
